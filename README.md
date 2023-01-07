@@ -1,18 +1,8 @@
+# Overview
 
-### Get this product for $5
-
-<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
-
-
-<b><p align='center'>[Buy now](https://packt.link/9781838552206)</p></b>
-
-
-<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
-
+Desktop 애플리케이션 관련해서 `TypeScript` + `Electron`으로 진행해보기 위해서 참고할 만한 소스를 검색하여 fork 한 레포지토리
 
 # Electron Projects
-
-<a href="https://www.packtpub.com/mobile/electron-projects?utm_source=github&utm_medium=repository&utm_campaign=9781838552206"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838552206-original.png" alt="Electron Projects" height="256px" align="right"></a>
 
 This is the code repository for [Electron Projects](https://www.packtpub.com/mobile/electron-projects?utm_source=github&utm_medium=repository&utm_campaign=9781838552206), published by Packt.
 
