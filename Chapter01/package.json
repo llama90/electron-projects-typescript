@@ -24,6 +24,10 @@
     "copyfiles": "^2.4.1"
   },
   "build": {
+    "files": [
+      "./build/**/*",
+      "./public/electron-starter.js"
+    ],
     "appId": "com.my.app.id",
     "mac": {
       "category": "public.app-category.utilities"
